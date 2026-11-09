@@ -10,6 +10,17 @@ Three working product prototypes in one React app. They share a project switcher
 
 `/` is an overview page linking to all three.
 
+<!-- links-v1 -->
+## Live deployment & source
+| | Link |
+|---|---|
+| **Live demo** | https://product-development-internship-assi.vercel.app |
+| Practo for Animals | https://product-development-internship-assi.vercel.app/practo |
+| AI Education (Arcline) | https://product-development-internship-assi.vercel.app/education |
+| AI Content Studio | https://product-development-internship-assi.vercel.app/studio |
+| **GitHub repository** | https://github.com/pratham-ahuja05/product-development-internship-assignment |
+
+
 ## Run it
 
 ```bash
